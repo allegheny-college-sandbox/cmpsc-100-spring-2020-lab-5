@@ -41,6 +41,8 @@ I recommend reading the [GitHub Guides](https://guides.github.com) which GitHub 
 
 ## Secret agent gator
 
+![ONE CODE TO RULE THEM ALL](https://github.com/allegheny-college-sandbox/cmpsc-100-spring-2020-lab-04/blob/media/media/g-wiz-decoder-ring.png)
+
 Unable to indulge his passion for hats, G. Wiz took some of the money they had remaining and signed up for secret society chain letter club. Today, our gator friend recieved their first communication -- their club code name -- and a secret club decoder ring. But, G. Wiz doesn't know how to use it. 
 
 Essentially, the club decoding process comprises two steps:
