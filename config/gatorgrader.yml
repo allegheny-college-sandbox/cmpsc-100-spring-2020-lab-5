@@ -9,7 +9,6 @@ src/main/java/labfive:
         ConfirmFileExists
         CountSingleLineComments --language Java --count 8
         MatchFileFragment --fragment "TODO" --count 0 --exact
-        MatchFileFragment --fragment "double " --count 7
         MatchFileFragment --fragment "char " --count 5
         MatchFileFragment --fragment "{YOUR NAME HERE}" --count 0 --exact
         MatchFileFragment --fragment "(char)" --count 5
