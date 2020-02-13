@@ -20,7 +20,7 @@ repositories {
 }
 
 apply plugin: 'application'
-mainClassName = 'labfour.HatPurchase'
+mainClassName = 'labfive.DecoderRing'
 
 apply plugin: 'checkstyle'
 checkstyle.toolVersion = '8.1'
